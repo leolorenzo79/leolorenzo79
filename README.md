@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leolorenzo79
+- 👋 Hi, I’m Leonardo
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Maachine Learning
 - 💞️ I’m looking to collaborate on ...
